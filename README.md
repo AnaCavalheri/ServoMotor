@@ -59,6 +59,8 @@ Agora ligaremos os fios positivos (vermelhos), cado um dos 3 fios restantes ter�
 11º Passo:
 O cabo de alimentação do ESP será encaixado no próprio e no computador.
 
+[🎥 Assista ao vídeo](https://github.com/AnaCavalheri/ServoMotor/raw/main/img/video.mp4)
+
 12º Passo:
 Para testar o funcionamento, baixe a biblioteca ESP32Servo e utilize o código de exemplo, modicando no cpodigo apenas a porta do ESP.
-![video](img/video.mp4)
+
