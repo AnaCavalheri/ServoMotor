@@ -61,4 +61,4 @@ O cabo de alimentação do ESP será encaixado no próprio e no computador.
 
 12º Passo:
 Para testar o funcionamento, baixe a biblioteca ESP32Servo e utilize o código de exemplo, modicando no cpodigo apenas a porta do ESP.
-![alt video](img/video.mp4)
+![video](img/video.mp4)
