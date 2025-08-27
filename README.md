@@ -2,14 +2,14 @@
 Passo a passo para montar um servo motor capaz de acender LEDs.
 1º Passo:
 Você irá precisar de: 
--3 cores de LED; 
--3 resistores verdes;
--1 ESP32;
--1 protoboard;
--1 Servo Motor de 9g;
--5 fios pretos;
--1 fio amarelo;
--4 fios vermelhos;
+- 3 cores de LED; 
+- 3 resistores verdes;
+- 1 ESP32;
+- 1 protoboard;
+- 1 Servo Motor de 9g;
+- 5 fios pretos;
+- 1 fio amarelo;
+- 4 fios vermelhos;
 (No caso do projeto apresentado, foram utilizados 4 fios marrons no lugar dos fios pretos e 3 fios laranjas no lugar dos fios amarelos)
 ![alt text](img/ServoMotor1.jpg)
 
